@@ -56,4 +56,10 @@ Each implementation is designed to efficiently solve maze traversal problems, le
    cd Pymaze-Search-Algorithm
 
 2. **Install dependencies**:
+   Ensure you have Python installed (version >= 3.7). Install the required packages
    ```pip install -r requirements.txt
+
+3. **Execute**:
+   ```python solve_AStarSearch.py  # For A* Search
+python solve_UniformCostSearch.py  # For UCS
+python q_learning_algorithm.py  # For Q-Learning
