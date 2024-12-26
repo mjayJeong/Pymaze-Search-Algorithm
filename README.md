@@ -1,6 +1,8 @@
 # Pymaze Search Algorithm
 
-This repository contains implementations of various search algorithms for solving mazes using the **Pymaze** framework. These algorithms are part of homework assignments for the **Introduction to Artificial Intelligence** course (Spring 2024, SKKU).
+This project is part of the Introduction to Artificial Intelligence course (Spring 2024, SKKU). The goal is to implement and analyze various search and learning algorithms to solve maze problems efficiently.<br>
+
+The implementation builds upon the Pymaze framework, an open-source Python library designed for visualizing and solving mazes. Using Pymaze as the foundation, we extended its functionality by incorporating advanced search algorithms such as A Search*, Uniform Cost Search, Greedy Search, and Q-Learning.
 
 ## Project Overview
 
